@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Server Side
 
-The folder named server contains the 2 files that goes in the backend
+The folder named server contains the 2 files that goes in the backend. In order to work you need to change the credentials for the database.
 
 ## Available Scripts
 
