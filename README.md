@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Server Side
+
+The folder named server contains the 2 files that goes in the backend
+
 ## Available Scripts
 
 In the project directory, you can run:
