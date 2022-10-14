@@ -1,0 +1,11 @@
+.card-text{
+    font-size:15px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.card-header{
+    height:3rem;
+    padding: 0;
+}
