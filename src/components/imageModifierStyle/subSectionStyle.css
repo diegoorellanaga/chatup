@@ -1,0 +1,46 @@
+.subImage-wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+  }
+
+.image-container {
+  height: auto;
+  background-color: #2185C5;
+  position: relative;
+
+}
+
+.image-container-content {
+  width: 10%; /* Can be in percentage also. */
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+}
+
+.video-display-canvas {
+  
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+
+}
+
+  .subImage-cover {
+    width: 100%;
+    /* height: 250px; */
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 0.5rem;
+  }
+
+
+.image-subImage-cover {
+  width: 100%;
+  /* height: 250px; */
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}

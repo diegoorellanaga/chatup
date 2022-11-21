@@ -1,0 +1,21 @@
+.topicItem-wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+  }
+  .topicItem-cover {
+    width: 100%;
+    /* height: 250px; */
+    object-fit: cover;
+    border-radius: 20px;
+    margin-bottom: 0.5rem;
+  }
+
+
+.topic-topicItem-cover {
+  width: 100%;
+  /* height: 250px; */
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
